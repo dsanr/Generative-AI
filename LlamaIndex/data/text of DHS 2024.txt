@@ -1,0 +1,69 @@
+﻿DataHack Summit 2024 (DHS) India’s most Futuristic AI Conference organized by Analytics Vidhya.Analytics Vidhya is the World’s leading and India’s largest data science community.Analytics Vidhya is founded by Kunal Jain. Analytics Vidhya aims to build the next generation data science ecosystem across the globe.We have helped millions of people realize their data science dreams.We conduct hackathons, competitions, training & conferences and help companies find the right data science talent.
+DHS 2024 totally has 70+ AI Talks, 30+ Hack Sessions and 8+ Workshops. The Theme of the DHS 2024 is "Generative AI: Defining the New World Order". It will be held on August 07-10, 2024, in Bengaluru.
+
+Why Attend Datahack Summit?
+
+Practitioner’s Conference
+
+Join leading data scientists and GenAI researchers to solve and build practical GenAI solutions that translate to immediate impact in your job role.
+
+Immersive GenAI Experience
+
+Experience a vibrant congregation of the world's brightest GenAI minds and explore groundbreaking innovations shaping the future of GenAI.
+
+Network with Industry Experts
+
+Connect with the top AI thought leaders to gain exclusive insights, build valuable relationships, and discover actionable strategies to implement in your own work.
+
+Awards and Recognition
+
+Celebrate the groundbreaking achievements and inspiring journeys of the visionaries leading the charge in AI advancements.
+
+The Experience
+
+Live Keynotes
+
+Unlock groundbreaking insights from industry’s experts. Gain the knowledge and strategies to overcome even the most complex AI challenges.
+
+Hack Sessions
+
+Witness GenAI in action! Learn practical data analysis & master new techniques through live GenAI problem-solving demos.
+
+Workshops
+
+Create your own GenAI solution in the immersive instructor-led, hands-on GenAI workshops. Experience the mechanics behind leading-edge technologies. 
+
+Exclusive Showcases
+
+Explore how companies are wielding cutting-edge GenAI to revolutionize industries. Discover groundbreaking solutions shaping the world of tomorrow.
+
+Power Talks
+
+Engage in powerful knowledge sessions with industry icons. Leave empowered with the insights and strategies to shape a more innovative tomorrow.
+
+Awards Evening
+
+Celebrate the brightest minds of the industry and draw inspiration for innovation. Be part of a community that is empowered to shape the future of AI.
+
+Focus Area
+
+    Prompt Engineering
+    Large Language Models (LLMs)
+    RAGs
+    Small Language Models (SLMs)
+    Multimodal Models
+    Diffusion Models
+    Responsible AI
+    LLMOps
+    Machine Learning
+    Deep Learning
+    Natural Language Processing (NLP)
+    Cloud Computing
+
+Hands-on Immersive Workshops
+Mastering LLMs: Training, Fine-tuning, and Best Practices
+GenAI for Business Leaders
+Training Stable Diffusion models with Industry Best Practices
+LLMOps – Productionalizing real-world applications with LLMs
+Pioneering Applied Machine Learning with Generative AI
+Building GenAI applications using RAGs
