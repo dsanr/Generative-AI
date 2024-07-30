@@ -5,5 +5,8 @@ Welcome to the Generative-AI repository! This repository houses a collection of 
 
 # LangChain
 
+## Langchain Data Loaders
+For detailed information on using Langchain Data Loaders, refer to this [article](https://www.analyticsvidhya.com/blog/2024/07/langchain-document-loaders/?utm_source=social%20&utm_medium=github).
+
 ## Langchain Text Splitters
 For detailed information on using Langchain Text Splitters, refer to this [article](https://www.analyticsvidhya.com/blog/2024/07/langchain-text-splitters/?utm_source=social&utm_medium=github).
