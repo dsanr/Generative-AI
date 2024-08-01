@@ -6,6 +6,11 @@ Vehicle classification/Dataset/
 Gender classification/train/
 Gender classification/test/
 
+# Vecor Databases
+*.bin
+*.sqlite3
+
+
 # Models
 *.h5
 *.hdf5
