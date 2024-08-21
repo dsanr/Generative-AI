@@ -9,7 +9,7 @@ Gender classification/test/
 # Vecor Databases
 *.bin
 *.sqlite3
-
+*.sql
 
 # Models
 *.h5
